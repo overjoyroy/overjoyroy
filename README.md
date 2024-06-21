@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**overjoyroy/overjoyroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+Hi, I’m **Joy**! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about **neuroimaging, network science, machine learning, and predictive modeling**. Currently, I’m pursuing my PhD in Biomedical Informatics at the **University of Pittsburgh**. I enjoy collaborating on projects that push the boundaries of each of these fields and make a meaningful impact.
+
+### Get in Touch
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me through any of the following platforms:
+
+- **LinkedIn**: [https://www.linkedin.com/in/joy-roy-235b12144/](https://www.linkedin.com/in/joy-roy-235b12144/)
+- **Website**: [joyroy.org](https://www.joyroy.org)
+- **Email**: `jor115@pitt.edu`
+
+---
+
+Thank you for visiting my profile!
