@@ -4,7 +4,7 @@
 
 Hi, I’m **Joy**! 
 
-I’m passionate about **neuroimaging, network science, machine learning, and predictive modeling**. Currently, I’m pursuing my PhD in Biomedical Informatics at the **University of Pittsburgh**. I enjoy collaborating on projects that push the boundaries of each of these fields and make a meaningful impact.
+I’m passionate about **neuroimaging, network science, machine learning, and predictive modeling**. Recently I just finished my PhD in Biomedical Informatics at the **University of Pittsburgh**. I enjoy collaborating on projects that push the boundaries of each of these fields and make a meaningful impact. 
 
 ### Get in Touch
 
